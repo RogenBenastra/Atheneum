@@ -2,6 +2,6 @@
 <Atheneum>
   <url>https://raw.github.com/RogenBenastra/Atheneum/main/bin/arch.zip</url>
   <version>2.5.1502</version>
-  <db_url></db_url>
+  <db_url>123456789</db_url>
   <db_ver>03.05.2024</db_ver>
 </Atheneum>
