@@ -4,9 +4,4 @@
   <url>https://raw.github.com/RogenBenastra/Atheneum/main/bin/arch.zip</url>
 <archive>https://vk.cc/cZgwg3</archive>
 <min_ver>3.1.0301</min_ver>
-<flibusta>
-<db_ver>03.07.2026</db_ver>
-<db_url>https://vk.cc/cZz7bd</db_url>
-<db_sha>23868f129f9ba99c3f4f002a7a37c51003e14194d671d5ea7fdc78ab47142140</db_sha>
-</flibusta>
 </Atheneum>
