@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Atheneum>
 <flibusta>
-<ver>2026.01.08</ver>
+<ver>01.08.2026</ver>
 <url>https://ath.coonlabfactory.ru/files/flb_pack_july_2026.zip</url>
 <sha>3b241c64b1be3ce54f148d923616588c190a7721987f1c6c05949c81fbdeb443</sha>
 </flibusta>
 <librusec>
-<ver>2026.01.08</ver>
+<ver>01.08.2026</ver>
 <url>https://ath.coonlabfactory.ru/files/lbs_pack_july_2026.zip</url>
 <sha>268bd0f94fe1a9931f77418474afbf68eb31e63daeba9d6d30ee60b1a2f05768</sha>
 </librusec>
