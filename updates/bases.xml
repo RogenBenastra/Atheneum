@@ -1,13 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Atheneum>
-<flibusta>
-<ver>26.07.2026</ver>
-<url>https://ath.coonlabfactory.ru/files/flb_cum_pack_july_2026.zip</url>
-<sha>be0b734fc0e3e5a5a0c324d6d43e4768cc76abb71465275b5cb2e12ab0400d3f</sha>
-</flibusta>
-<librusec>
-<ver>28.07.2026</ver>
+
+  <flibusta>
+    <update month="2026-08">
+<url>https://ath.coonlabfactory.ru/files/flb_16.zip</url>
+<sha>116366B161C7429A3773F18ED987C8AEA43D40BA276F2D9910C68882F2BF9471</sha>
+    </update>
+    <update month="2026-09">
+<url>https://ath.coonlabfactory.ru/files/flb_17.zip</url>
+<sha>6F7AB5CB848B6103332EA03CF82053303D1021F344724E38CC5E72F2A3B3CDC6</sha>
+    </update>
+    <update month="2026-10">
+<url>https://ath.coonlabfactory.ru/files/flb_18.zip</url>
+<sha>79B5D3B3AE774543998102EBBC867806CE9F22AFFA95B0FFA3F7154967A1DD62</sha>
+    </update>
+  </flibusta>
+
+  <librusec>
+    <update month="2026-07">
 <url>https://ath.coonlabfactory.ru/files/lbs_cum_pack_july_2026.zip</url>
 <sha>020f1da5530b234782929a721361aeb558a2801cb702bf3dac316ff38a13ea3e</sha>
-</librusec>
+    </update>
+  </librusec>
+
 </Atheneum>
