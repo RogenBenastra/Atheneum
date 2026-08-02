@@ -3,21 +3,8 @@
   <flibusta>
     <update date="2026-01-08">
 <url>https://ath.tuagir.ru/files/flb_2026_01_08.zip</url>
-<sha>35689d66f222057808c3d7f095b3cedea3ff4c5b52dc15928e393b53f5b8a30a</sha>
+<sha>32d5183a317d02e871f6a592ff1bce4c529e7a108bcb9817a028c43b194a3b17</sha>
     </update>
-    <update date="2026-02-08">
-<url>https://ath.tuagir.ru/files/flb_2026_02_08.zip</url>
-<sha>6d1aadc03096e5816be461bf0635656e77c4e47cd8dbb8808d6521e715793b9a</sha>
-    </update>
-    <update date="2026-03-08">
-<url>https://ath.tuagir.ru/files/flb_2026_03_08.zip</url>
-<sha>4fe2ece2ff0f2005c4f9a6be527114fbe0847ed344274eac25ff6f5547284e11</sha>
-    </update>
-        <update date="2026-04-08">
-<url>https://ath.tuagir.ru/files/flb_2026_04_08.zip</url>
-<sha>cc257ff2f8e533358abe2e3ad20bdc50da07513f00ddc0d21c6037de8ff5ffb7</sha>
-    </update>
-  </flibusta>
 
   <librusec>
     <update date="2026-01-08">
