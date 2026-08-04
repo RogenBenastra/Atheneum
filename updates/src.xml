@@ -3,21 +3,21 @@
   <flibusta>
     <update date="2026-08-05">
 <url>https://ath.tuagir.ru/files/flibusta.inpx</url>
-<sha></sha>
+<sha>333a484d0852866c138258dda5e0363c4c71f424894729f96b796208f25a8985</sha>
     </update>
   </flibusta>
   
   <librusec>
     <update date="2026-08-05">
 <url>https://ath.tuagir.ru/files/flibusta.inpx</url>
-<sha></sha>
+<sha>d4289154e9b26ff5b6e3d691f330086a8083ff6d874e3e00f29e3b463b715c31</sha>
     </update>
   </librusec>
 
   <genres>
     <update date="2026-08-05">
 <url>https://ath.tuagir.ru/files/genres.gs</url>
-<sha></sha>
+<sha>af23a4523267972811d29513baf3e5b3c98a0fd568e87af13b5872cb0af2b761</sha>
     </update>
   </genres>
   
