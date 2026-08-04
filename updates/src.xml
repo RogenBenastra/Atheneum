@@ -1,0 +1,24 @@
+<Atheneum>
+
+  <flibusta>
+    <update date="2026-08-05">
+<url>https://ath.tuagir.ru/files/flibusta.inpx</url>
+<sha></sha>
+    </update>
+  </flibusta>
+  
+  <librusec>
+    <update date="2026-08-05">
+<url>https://ath.tuagir.ru/files/flibusta.inpx</url>
+<sha></sha>
+    </update>
+  </librusec>
+
+  <genres>
+    <update date="2026-08-05">
+<url>https://ath.tuagir.ru/files/genres.gs</url>
+<sha></sha>
+    </update>
+  </genres>
+  
+</Atheneum>
