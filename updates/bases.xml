@@ -8,9 +8,9 @@
   </flibusta>
   
   <librusec>
-    <update date="">
-<url></url>
-<sha></sha>
+    <update date="2026-08-01">
+<url>https://ath.tuagir.ru/files/lbs_2026_08_01.zip</url>
+<sha>04e6fe62ada820708c6a9804acc21bc9112f03f5e972025b9ede0585d0a2c899</sha>
     </update>
   </librusec>
 
