@@ -1,21 +1,21 @@
 <Atheneum>
 
   <flibusta>
-    <update date="2026-08-05">
+    <update date="2026-08-01">
 <url>https://ath.tuagir.ru/files/flibusta.inpx</url>
 <sha>02164d23ee29d7bad8bbf36d2533702dbe98a2427a99f6db74560d7494a33c57</sha>
     </update>
   </flibusta>
   
   <librusec>
-    <update date="2026-08-05">
+    <update date="2026-08-01">
 <url>https://ath.tuagir.ru/files/librusec.inpx</url>
 <sha>36e5c421a96f50a4eb2a75682a646e994400462495b58cb5ceb92095982b3aab</sha>
     </update>
   </librusec>
 
   <genres>
-    <update date="2026-08-05">
+    <update date="2026-08-01">
 <url>https://ath.tuagir.ru/files/genres.gs</url>
 <sha>6711f6ebdd0bbfff7b6747a56bf8e8fc910cc077fcdded6c7ce14e37f7241fc8</sha>
     </update>
