@@ -3,14 +3,14 @@
   <flibusta>
     <update date="2026-09-01">
 <url>https://ath.tuagir.ru/files/flibusta.inpx</url>
-<sha>02164d23ee29d7bad8bbf36d2533702dbe98a2427a99f6db74560d7494a33c57</sha>
+<sha>3345be606d1e3359649abce6baed5f58c0f4e477e6eb1329693ac91d8658bbbe</sha>
     </update>
   </flibusta>
   
   <librusec>
     <update date="2026-09-01">
 <url>https://ath.tuagir.ru/files/librusec.inpx</url>
-<sha>36e5c421a96f50a4eb2a75682a646e994400462495b58cb5ceb92095982b3aab</sha>
+<sha>ae0fd956ce0823dbbc7bb3536343d7ba5d4bf517257893c5d6cd621505f80cd5</sha>
     </update>
   </librusec>
 
