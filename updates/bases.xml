@@ -1,14 +1,14 @@
 <Atheneum>
 
   <flibusta>
-    <update date="2026-09-01">
+    <update date="2026-08-01">
 <url>https://ath.tuagir.ru/files/flb_2026_09_01.zip</url>
 <sha>49e1eafb91fe29a3812b1849f8b66d473615022dfad789cfb0f9eb7726183477</sha>
     </update>
   </flibusta>
   
   <librusec>
-    <update date="2026-09-01">
+    <update date="2026-08-01">
 <url>https://ath.tuagir.ru/files/lbs_2026_09_01.zip</url>
 <sha>ac59ffae81b0835fb4788d4b18d2e5a73216057cf9292c802ee619a7d33413d2</sha>
     </update>
