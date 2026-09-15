@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Atheneum>
-  <version>5.1.1010</version>
+  <version>5.1.1011</version>
   <url>https://raw.github.com/RogenBenastra/Atheneum/main/bin/arch.zip</url>
 <changes>
   <change>Исправлена система обновления.</change>
