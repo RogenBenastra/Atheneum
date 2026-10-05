@@ -3,14 +3,14 @@
   <flibusta>
     <update date="2026-10-01">
 <url>https://ath.tuagir.ru/files/flb_2026_10_01.zip</url>
-<sha>4bd56e854005878770b3768d0f72a93038e5ce696b11bf479a3ca0ca7537006a</sha>
+<sha>2adcda159687dd828a563d2411bb04d055ecd92be83c29aabe10fed89a9c5099</sha>
     </update>
   </flibusta>
   
   <librusec>
     <update date="2026-10-01">
 <url>https://ath.tuagir.ru/files/lbs_2026_10_01.zip</url>
-<sha>8eab2d906fc58d86a9e4fe9869d16243d3d94cd51ef0c4b066f9883fd4c1b04a</sha>
+<sha>6b3d41c9564ef8fb364a54b86b31194986f5f7a25efe716e45d79f8775bb7f09</sha>
     </update>
   </librusec>
 
