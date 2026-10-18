@@ -3,10 +3,10 @@
   <version>6.1.0917</version>
   <url>https://raw.github.com/RogenBenastra/Atheneum/main/bin/arch.zip</url>
 <changes>
-  <change>— добавлена новая библиотека Z-Library</change>
-  <change>— в настройки добавлена Вкладка ZLibrary</change>
-  <change>— управление конвертацией из форматов fb2 и epub переехало на отдельную вкладку</change>
-  <change>— удалена внешняя зависимость от конвертера blb2txt</change>
+  <change>добавлена новая библиотека Z-Library</change>
+  <change>в настройки добавлена Вкладка ZLibrary</change>
+  <change>управление конвертацией из форматов fb2 и epub переехало на отдельную вкладку</change>
+  <change>удалена внешняя зависимость от конвертера blb2txt</change>
         </changes>
     <sha256>191c5406759ad48cf9f8e200c960cb99b3e2d58b1d9c043a0e33e5789640bb1e></archive>
 <minVersion>5.0.0906</minVersion>
