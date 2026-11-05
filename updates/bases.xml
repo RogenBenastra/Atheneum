@@ -1,16 +1,16 @@
 <Atheneum>
 
   <flibusta>
-    <update date="2026-10-01">
-<url>https://ath.tuagir.ru/files/flb_2026_10_01.zip</url>
-<sha>2adcda159687dd828a563d2411bb04d055ecd92be83c29aabe10fed89a9c5099</sha>
+    <update date="2026-11-01">
+<url>https://ath.tuagir.ru/files/flb_2026_11_01.zip</url>
+<sha>71d0938d35071a623b154d7722b6fa9ba4c354734602fab2722db17fbeab2663</sha>
     </update>
   </flibusta>
   
   <librusec>
-    <update date="2026-10-01">
-<url>https://ath.tuagir.ru/files/lbs_2026_10_01.zip</url>
-<sha>6b3d41c9564ef8fb364a54b86b31194986f5f7a25efe716e45d79f8775bb7f09</sha>
+    <update date="2026-11-01">
+<url>https://ath.tuagir.ru/files/lbs_2026_11_01.zip</url>
+<sha>ae138789ea1fa42343eb766dfe47f7b3cf7b318fa139fc1fefd5fe2b408edf4d</sha>
     </update>
   </librusec>
 
