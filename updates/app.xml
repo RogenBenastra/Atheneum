@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Atheneum>
-  <version>6.1.0917</version>
+  <version>6.3.1114</version>
   <url>https://raw.github.com/RogenBenastra/Atheneum/main/bin/arch.zip</url>
 <changes>
-  <change>добавлена новая библиотека Z-Library</change>
-  <change>в настройки добавлена Вкладка ZLibrary</change>
-  <change>управление конвертацией из форматов fb2 и epub переехало на отдельную вкладку</change>
-  <change>удалена внешняя зависимость от конвертера blb2txt</change>
+  <change>на вкладке Календарь список с жанрами заменён на дерево, как на вкладке Жанры</change>
+  <change>У каждой библиотеки теперь свой набор жанров</change>
+  <change>добавлены конвертеры из doc, docx, rtf</change>
+  <change>добавлена команда для скачивания активной главы аудиокниги</change>
+  <change>процент загрузки теперь читается каждые 3 секунды</change>  
         </changes>
-    <sha256>191c5406759ad48cf9f8e200c960cb99b3e2d58b1d9c043a0e33e5789640bb1e</sha256>
-<archive>https://ath.tuagir.ru/files/Atheneum_6_1_0917.zip</archive>
-<min_version>5.3.1114</min_version>
+    <sha256>2a3be4938ed8dfc1819ab09fcf02bed79acb1013f5554ee96a164a12de69fbc6</sha256>
+<archive>https://vk.cc/d49jGo</archive>
+<min_version>6.3.1114</min_version>
 </Atheneum>
